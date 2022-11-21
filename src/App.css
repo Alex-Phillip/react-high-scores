@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.list {
+  list-style: none;
+}
+
+.scoresContainer {
+  border: 1px solid blue;
+  width: 50%;
+  margin: auto;
+  color: lightblue;
+}
+
+.scoreName {
+  border: 15px solid greenyellow;
+  margin: 10px;
+}
+
+.scoresData {
+  border: 1px solid black;
+  margin: 3px;
+}
