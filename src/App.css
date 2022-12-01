@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  font-family: 'Press start 2p';
 }
 
 .App-logo {
@@ -54,6 +56,6 @@
 }
 
 .scoresData {
-  border: 1px solid black;
+  border: 1px solid white;
   margin: 3px;
 }
